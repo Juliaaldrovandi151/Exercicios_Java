@@ -17,5 +17,6 @@ public class LeituraCode {
         System.out.println("---------------------------");
         System.out.println("Sensor " + Sensor + " foi registrado com o valor " + Leitura + " unidades.");
        input.close();
+        System.out.println("TESTE COMMIT");
    }
 }
